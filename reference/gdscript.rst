@@ -747,7 +747,7 @@ There are 6 pattern types:
             TYPE_ARRAY:  print("array")
 
 
-- wilcard pattern
+- wildcard pattern
     This pattern matches everything. It's written as a single underscore.
     
     It can be used as the equivalent of the ``default`` in a ``switch`` statement in other languages. ::
